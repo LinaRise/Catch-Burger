@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Поймай бургер</string>
+    <string name="ClickStart">Нажмите для продолжения</string>
+    <string name="Score">Счет:</string>
+    <string name="TimeOff">Время вышло</string>
+    <string name="Time">Таймер:</string>
+    <string name="ScoreAlert">Счет</string>
+    <string name="ScoreNumAlert">Ваши очки:</string>
+</resources>

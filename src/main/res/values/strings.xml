@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catch Burger</string>
+    <string name="ClickStart">Click to start</string>
+    <string name="Score">Score:</string>
+    <string name="TimeOff">Time\'s off</string>
+    <string name="Time">Time:</string>
+    <string name="ScoreAlert">Score</string>
+    <string name="ScoreNumAlert">Your score:</string>
+    <string name="dialog_message" translatable="false">https://github.com/LinaRise/LinaRise.github.io/blob/master/Privacy%20Policy</string>
+</resources>
